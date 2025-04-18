@@ -28,7 +28,7 @@ span{
   font-weight: bolder;
   animation: mover 6s linear infinite;
   color: #e1e2f4;
-  margin-top: 130px;
+  margin-top: 131px;
 }
 @keyframes mover{
   0%{
